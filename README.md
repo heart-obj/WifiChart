@@ -1,1 +1,2 @@
 # WifiChart
+npm i WifiChart
